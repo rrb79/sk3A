@@ -125,14 +125,5 @@ license.
 
 ---
 Made with ♥ by Konstantin Tarkus ([@koistya](https://twitter.com/koistya)) and [contributors](https://github.com/kriasoft/babel-starter-kit/graphs/contributors)
-"# sk2" 
-"# sk2" 
-"# sk2" 
-"# st2" 
-"# st2" 
-# st2
-"# st2" 
-"# st2" 
-"# sk2B" 
-"# sk2B" 
-"# sk2B" 
+ 
+"# sk3A" 
